@@ -1,4 +1,4 @@
-# Writeup : OWASP UnCrackable Mobile Dashboard - Level 3
+#  OWASP UnCrackable Mobile Dashboard - Level 3
 
 Ce dépôt documente la résolution du challenge de reverse engineering Android **UnCrackable Level 3** de l'OWASP. L'objectif était de contourner plusieurs couches de sécurité (anti-root, anti-tampering, anti-debug) pour extraire un code secret caché dans une librairie native.
 
